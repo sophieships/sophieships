@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics and biotechnology
 - 🌱 I’m currently building bioinformatics pipelines using Nextflow and bioprocess dashboards using Dash/Plotly
 - 💞️ I’m looking to collaborate on bioinformatics projects
-- 📫 How to reach me 81486685+sophieships@users.noreply.github.com
+- 📫 How to reach me 81486685+sophieships@users.noreply.github.com or user@example.com
 
 <!---
 eoksen/eoksen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
